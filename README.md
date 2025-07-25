@@ -1,3 +1,7 @@
+Icon: fa-solid fa-car-side
+Description: HTML Template for a Roller Derby Team
+GitHub: https://github.com/Lhorath/DNDTools
+
 Oultonprise - Car Rental Agency in Moncton NB
 =============
 Our Final Project for PHP!
