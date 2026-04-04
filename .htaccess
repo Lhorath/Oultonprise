@@ -1,0 +1,17 @@
+# Oultonprise — http://oultonprise.dackdns.ddns.net/
+# Point the web server document root at this project directory (local: D:\GitHub\Oultonprise).
+
+DirectoryIndex index.php index.html
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	# Site is served from the domain root. If you deploy under a subfolder, set e.g. RewriteBase /subfolder/
+	RewriteBase /
+
+	# Legacy static template links → PHP
+	RewriteRule ^index\.html$ index.php [L,R=301]
+	RewriteRule ^signup\.html$ signup.php [L,R=301]
+</IfModule>
+
+# Hide directory listings
+Options -Indexes

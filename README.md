@@ -4,7 +4,7 @@ Description: Final PHP PGroup Prooject From College
 
 GitHub: https://github.com/Lhorath/Oultonprise
 
-Live: http://car.nerdygamertools.com/
+Live: http://oultonprise.dackdns.ddns.net/
 
 Oultonprise - Car Rental Agency in Moncton NB
 =============

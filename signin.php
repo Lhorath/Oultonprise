@@ -8,7 +8,7 @@ include 'includes/header.php';
 <div class="container">
 
     <ol class="breadcrumb">
-        <li><a href="index.html">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li class="active">User access</li>
     </ol>
 
@@ -24,7 +24,7 @@ include 'includes/header.php';
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <h3 class="thin text-center">Sign in to your account</h3>
-                        <p class="text-center text-muted">Use your account to be able to rent cars and upkeep your profile. Don't have an account?<a href="signup.html"> Register Here!</a> </p>
+                        <p class="text-center text-muted">Use your account to be able to rent cars and upkeep your profile. Don't have an account?<a href="signup.php"> Register Here!</a> </p>
                         <hr>
 
                         <form>
@@ -60,4 +60,4 @@ include 'includes/header.php';
 </div>	<!-- /container -->
 
 <?php
-include '/includes/footer.php';
+include 'includes/footer.php';
