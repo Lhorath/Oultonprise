@@ -12,7 +12,7 @@
 //                      Website Version 2.0
 
 
-$connection = mysql_connect('localhost', 'root', '');
+$connection = mysql_connect('127.0.0.1:3306', 'website', 'dax123');
 if (!$connection){
     die("Database Connection Failed" . mysql_error());
 }
