@@ -8,23 +8,23 @@ Live: http://oultonprise.dackdns.ddns.net/
 
 # Oultonprise
 
-Sample **car rental** marketing and booking-style site (Bootstrap-era PHP includes). Useful as a coursework reference.
+> Sample car rental marketing and booking-style site built as a college group project in 2016.
 
-### Archival notice
+## Overview
 
-This codebase was created in **2016** as a **college** group project. It is hosted on GitHub **only for archival purposes** (historical reference, not ongoing development or production use).
+Oultonprise is a Bootstrap-era PHP multi-page site featuring public marketing pages and a basic sign-in / account entry point as built for the college assignment. It is hosted on GitHub **for archival and historical reference only** — not for ongoing development or production use.
 
-## Features (historical)
+## Features (Historical)
 
-- Public marketing pages and contact flow
+- Public marketing and contact pages
 - Sign-in / account entry points as built for the assignment
+- Bootstrap-era responsive layout
 
 ## Credits
 
-- Base layout adapted from an online template; customizations and content by course team members.
+Base layout adapted from an online template; customizations and content by course team members.
 
 ## License
 
-Copyright (c) 2026 MacWeb Canada | Professional Online Solutions | [macweb.ca](https://macweb.ca).
-
-Licensed under the MIT License — see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE).  
+Copyright © 2026 [MacWeb Canada](https://macweb.ca) | Professional Online Solutions.
